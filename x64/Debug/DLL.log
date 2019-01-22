@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  DLL.cpp
+d:\jstewart8\desktop\software engineering practices assignment 1\dll\dll.cpp(10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dllmain.cpp
+     Creating library D:\JStewart8\Desktop\Software Engineering Practices Assignment 1\x64\Debug\DLL.lib and object D:\JStewart8\Desktop\Software Engineering Practices Assignment 1\x64\Debug\DLL.exp
+  DLL.vcxproj -> D:\JStewart8\Desktop\Software Engineering Practices Assignment 1\x64\Debug\DLL.dll
+  DLL.vcxproj -> D:\JStewart8\Desktop\Software Engineering Practices Assignment 1\x64\Debug\DLL.pdb (Partial PDB)

@@ -1,0 +1,33 @@
+﻿  stdafx.cpp
+  Main.cpp
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(13): error C2065: 'MAX_DATA': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(16): error C2065: 'MAX_DATA': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(16): error C3861: 'LoadMeasurements': identifier not found
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(18): error C2065: 'UnknownError': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(20): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(20): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(27): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(27): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(34): error C3861: 'UseFilter': identifier not found
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(36): error C2065: 'Success': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(38): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(38): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(40): error C3861: 'SaveMeasurements': identifier not found
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(40): error C2065: 'UnknownError': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(42): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(42): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(46): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(46): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(50): error C2065: 'DllNotFound': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(52): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(52): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(54): error C2065: 'InvalidParameters': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(56): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(56): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(58): error C2065: 'DllInvalidFormat': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(60): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(60): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(64): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(64): error C2065: 'endl': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(71): error C2065: 'cout': undeclared identifier
+d:\jstewart8\desktop\software engineering practices assignment 1\main\main.cpp(71): error C2065: 'endl': undeclared identifier
